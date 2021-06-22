@@ -1,0 +1,16 @@
+label, input {
+    display: block;
+}
+
+.card {
+    margin-top: 1rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1rem;
+    background-color: #e67e22;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
